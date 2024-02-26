@@ -1,7 +1,7 @@
 <template>
-  <NuxtLayout>
-    <VApp>
+  <VApp>
+    <NuxtLayout>
       <NuxtPage />
-    </VApp>
-  </NuxtLayout>
+    </NuxtLayout>
+  </VApp>
 </template>
